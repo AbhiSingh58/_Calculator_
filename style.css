@@ -1,0 +1,52 @@
+  *{
+            background-color: rgb(36, 34, 34);
+        }
+
+        h2{
+            color: white;
+        }
+        .d2{
+            width: 46.6667px;
+            align-content: center;
+            border: 1px solid white;
+            border-radius: 8px;
+            background-color: rgb(245, 206, 206);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .d2:hover{
+            color: white;
+            background-color: rgb(255, 193, 193);
+            border: 1px solid black;
+            cursor: pointer;
+        }
+        #d1{
+            text-align: center;
+            width: 50px;
+            
+        }
+        #output{
+            border-radius: 8px;
+            pointer-events: none;
+            border: 1px solid white;
+            background-color: rgb(255, 193, 193);
+            color: white;
+         
+        
+        }
+        
+        .container{
+            display:flex;
+            justify-content: center;
+          
+           
+        }
+        h2{
+            text-align: center;
+        }
+        #tab{
+            border: 0.5px solid rgb(39, 31, 31);
+          border-radius: 4px;
+            background-color: rgb(221, 255, 255);
+            height :122.667px;
+            width :215.333px;
+        }
